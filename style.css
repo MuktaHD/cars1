@@ -1,0 +1,22 @@
+.car-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.car {
+    display: none;
+    max-width: 300px;
+    height: auto;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
